@@ -31,7 +31,7 @@ const music_list = [
         img : 'images/logo.png',
         name : 'Đừng Hỏi Về Anh',
         artist : 'hdung x truongnguyen',
-        music : 'images/dhva.mp3'
+        music : 'images/dha.mp3'
     },
 ];
 
